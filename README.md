@@ -1,9 +1,7 @@
 The readme of team Onyx1
 
-the "add" function adds two numbers to each other
+Addition: The "add" function adds two numbers a and b to each other, and print the result with two examples.
 
 Substraction: When putting in numbers in the print cells the numbers will be subtracted from each other where the first number is a and the second is b where b will be subtracted from a.
 
-Multiplication: Give initial values of a and b and receive the result a*b.
-
-S M A L L   I M P R O V E M E N T
+Multiplication: A function that takes two variables a and b and outputs the result a*b.
